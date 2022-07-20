@@ -8,11 +8,11 @@ Committed to using Machine learning to streamline the system. Adept at synthesiz
 
 I am a community manager at [DSEAfrica](https://twitter.com/DSEAfrica) and  [Lux Academy](https://twitter.com/lux_academy)
 
-- 🔭 I’m currently working on ... Data analysis projects 
-- 🌱 I’m currently learning ... Machine Learning 
-- 👯 I’m looking to collaborate on ... Data Science and data analysis  Projects 
-- 📫 How to reach me: ... 📫 How to reach me : Email: mosesmati93@gmail.com, [Twitter](https://twitter.com/home), [Linkedin](https://www.linkedin.com/in/hellen-mati-7b476613b/)
+- 🔭 I’m currently working on ... **Data analysis projects** 
+- 🌱 I’m currently learning ... **Machine Learning** 
+- 👯 I’m looking to collaborate on ... **Data Science and data analysis  Projects**
+- 📫 How to reach me: ... 📫 **How to reach me** : Email: mosesmati93@gmail.com, [Twitter](https://twitter.com/home), [Linkedin](https://www.linkedin.com/in/hellen-mati-7b476613b/)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... Growing up as a child i always wanted to be a pilot ..Its still in my Bucketlist 
-- ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+- ⚡ Fun fact: ...:+1: I watch spongebob alot at my big age :shipit:
+- ![This is an image](https://www.enwallpaper.com/wp-content/uploads/2022/02/spongebob-wallpaper-17.jpg)
 -->
