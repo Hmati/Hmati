@@ -13,6 +13,7 @@ I am a community manager at [DSEAfrica](https://twitter.com/DSEAfrica) and  [Lux
 - 👯 I’m looking to collaborate on ... **Data Science and data analysis  Projects**
 - 📫 How to reach me: ... 📫 **How to reach me** : Email: mosesmati93@gmail.com, [Twitter](https://twitter.com/home), [Linkedin](https://www.linkedin.com/in/hellen-mati-7b476613b/)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...:+1: I watch spongebob alot at my big age :shipit:
-- ![This is an image](https://www.enwallpaper.com/wp-content/uploads/2022/02/spongebob-wallpaper-17.jpg)
+- ⚡ Fun fact: ...:+1: I watch spongebob alot at my big age :satisfied:
+- ![This is an image](https://www.wallpaperflare.com/animation-cartoon-family-spongebob-squarepants-wallpaper-uczsb)
 -->
+`#0d1117`
