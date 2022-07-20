@@ -6,8 +6,7 @@ Looking For stories within Number has to be one of my exciting things to do beca
 Committed to using Machine learning to streamline the system. Adept at synthesizing complex data into actionable reporting, and proposals.  Reliable and supportive team leader capable of training and developing employees to enable them to fulfill their potential
 
 
-I am a community manager at [DSEAfrica]https://twitter.com/DSEAfrica).
-and Lux Academy 
+I am a community manager at [DSEAfrica](https://twitter.com/DSEAfrica) and  [Lux Academy](https://twitter.com/lux_academy)
 
 - 🔭 I’m currently working on ... Data analysis projects 
 - 🌱 I’m currently learning ... Machine Learning 
