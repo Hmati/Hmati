@@ -13,5 +13,6 @@ I am a community manager at [DSEAfrica](https://twitter.com/DSEAfrica) and  [Lux
 - 👯 I’m looking to collaborate on ... Data Science and data analysis  Projects 
 - 📫 How to reach me: ... 📫 How to reach me : Email: mosesmati93@gmail.com, [Twitter](https://twitter.com/home), [Linkedin](https://www.linkedin.com/in/hellen-mati-7b476613b/)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... Growing up as a child i always wanted to be a pilot ..Its still in my Bucketlist 
+- ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 -->
