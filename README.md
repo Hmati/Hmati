@@ -14,6 +14,6 @@ I am a community manager at [DSEAfrica](https://twitter.com/DSEAfrica) and  [Lux
 - 📫 How to reach me: ... 📫 **How to reach me** : Email: mosesmati93@gmail.com, [Twitter](https://twitter.com/home), [Linkedin](https://www.linkedin.com/in/hellen-mati-7b476613b/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...:+1: I watch spongebob alot at my big age :satisfied:
-- ![This is an image](https://www.wallpaperflare.com/animation-cartoon-family-spongebob-squarepants-wallpaper-uczsb)
+- 
 -->
-`#0d1117`
+#0d1117
