@@ -11,7 +11,7 @@ I am a community manager at [DSEAfrica](https://twitter.com/DSEAfrica) and  [Lux
 - 🔭 I’m currently working on ... Data analysis projects 
 - 🌱 I’m currently learning ... Machine Learning 
 - 👯 I’m looking to collaborate on ... Data Science and data analysis  Projects 
-- 📫 How to reach me: ... 📫 How to reach me : Email: mosesmati93@gmail.com, Twitter, Linkedin
+- 📫 How to reach me: ... 📫 How to reach me : Email: mosesmati93@gmail.com, [Twitter](https://twitter.com/home), [Linkedin](https://www.linkedin.com/in/hellen-mati-7b476613b/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
