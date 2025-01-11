@@ -19,27 +19,6 @@ Hi there! I am passionate about solving real-world problems through data. I spec
 Check out my portfolio for a showcase of my work and projects: [**Hellen Mati Portfolio**](https://www.datascienceportfol.io/MissMati)  
 
 ---
-
-## 🌟 Professional Experience
-### **Data Engineer & Data Analyst**  
-**Ideal Ceramics Ltd (Aug 2023 – Jul 2024)**  
-- Designed robust ETL pipelines with Azure Data Factory to process large-scale sales and inventory data.  
-- Conducted foot traffic and sales analysis with machine learning models, optimizing price strategies.  
-- Built real-time Power BI dashboards, enabling data-driven decision-making.  
-
-### **Data Analyst**  
-**Echotel International (Jan 2021 – Aug 2023)**  
-- Implemented forecasting models for inventory optimization, reducing excess stock and stockouts.  
-- Automated data collection workflows using Python and Azure Data Services, improving reporting efficiency.  
-- Performed customer segmentation and price optimization, boosting revenue and customer engagement.  
-
-### **Community Manager & Data Analyst**  
-**Data Science East Africa (Oct 2020 – Dec 2023)**  
-- Developed data pipelines for community engagement analytics using Azure Data Lake and Python.  
-- Facilitated technical workshops for over 5,000 professionals on data engineering and analytics.
-
----
-
 ## 💡 Featured Projects
 Here are some of the notable projects in my portfolio:
 
