@@ -16,7 +16,7 @@ Hi there! I am passionate about solving real-world problems through data. I spec
 ---
 
 ## 🖥️ Portfolio  
-Check out my portfolio for a showcase of my work and projects: [**Hellen Mati Portfolio**](datascienceportfol.io/MissMati)  
+Check out my portfolio for a showcase of my work and projects: [**Hellen Mati Portfolio**](https://www.datascienceportfol.io/MissMati)  
 
 ---
 
